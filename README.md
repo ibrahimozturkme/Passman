@@ -1,6 +1,6 @@
 # Passman
 Password Manager v1.0
 
-![alt text](http://ibrahimozturk.me/assets/img/works/cover_1487341927.jpg "Password Manager")
+![alt text](https://ibrahimozturk.me/wp-content/uploads/2018/06/post_5.jpg "Passman - Password Manager")
 
-[Tanıtım Konusu](http://ibrahimozturk.me/is/5-sifre-yoneticisi-password-manager)
+[Tanıtım Konusu](https://ibrahimozturk.me/passman-password-manager/)
